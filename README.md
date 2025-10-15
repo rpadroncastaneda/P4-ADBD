@@ -285,3 +285,51 @@ INSERT INTO historial (id_encargado, id_tarea, id_zona, fecha_inicio, fecha_fin)
   (4, 5, 4, '2025-04-01 07:30:00', '2025-04-01 09:00:00'),
   (1, 4, 1, '2025-05-02 09:00:00', '2025-05-02 11:00:00');
 ```
+
+## Visualización de Tablas Individuales
+
+A continuación se muestran imágenes representativas de cada tabla del modelo relacional:
+
+### Viveros
+
+![Tabla Viveros](SelectImg/viveros.png)
+
+### Productos
+
+![Tabla Productos](SelectImg/productos.png)
+
+### Empleados
+
+![Tabla Empleados](SelectImg/empleados.png)
+
+### Empleados Teléfonos
+
+![Tabla Empleados Teléfonos](SelectImg/empleados_telefonos.png)
+
+### Clientes Plus
+
+![Tabla Clientes Plus](SelectImg/clientes_plus.png)
+
+### Zonas
+
+![Tabla Zonas](SelectImg/zonas.png)
+
+### Pedidos
+
+![Tabla Pedidos](SelectImg/pedidos.png)
+
+### Productos Pedidos
+
+![Tabla Productos Pedidos](SelectImg/productos_pedidos.png)
+
+### Stocks
+
+![Tabla Stocks](SelectImg/stocks.png)
+
+### Tareas
+
+![Tabla Tareas](SelectImg/tareas.png)
+
+### Historial
+
+![Tabla Historial](SelectImg/historial.png)
