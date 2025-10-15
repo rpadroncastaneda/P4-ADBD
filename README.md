@@ -351,18 +351,23 @@ Supongamos que queremos eliminar un vivero (por ejemplo, el vivero con `id_viver
 #### Ejecución del DELETE
 
 **Sentencia ejecutada:**
+
 ![Sentencia DELETE](Deleteimg/deleteV1.png)
 
 #### Estado de las tablas tras la eliminación
 
 Estado de la tabla "viveros":
+
 ![Tabla Viveros tras DELETE](Deleteimg/viverosV1.png)
 
 Estado de la tabla "zonas":
+
 ![Tabla Zonas tras DELETE](Deleteimg/zonasV1.png)
 
 Estado de la tabla "stocks":
+
 ![Tabla Stocks tras DELETE](Deleteimg/stocksV1.png)
 
 Estado de la tabla "historial":
+
 ![Tabla Historial tras DELETE](Deleteimg/historialV1.png)
