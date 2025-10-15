@@ -164,10 +164,6 @@ INSERT INTO productos_pedidos (id_pedido, id_producto, cantidad) VALUES
   (2, 5, 2);  
 
 
-
-SELECT recalc_bonificaciones(id_cliente) FROM clientes_plus;
-
-
 INSERT INTO tareas (descripcion, nombre) VALUES
   ('Riego de invernadero', 'Riego'),
   ('Poda de rosales', 'Poda'),
