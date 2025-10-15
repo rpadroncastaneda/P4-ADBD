@@ -1,3 +1,5 @@
+CREATE DATABASE viveros_script;
+
 CREATE TABLE viveros (
   id_vivero SERIAL PRIMARY KEY,
   latitud NUMERIC(9,6) NOT NULL CHECK (latitud BETWEEN -90 AND 90),
